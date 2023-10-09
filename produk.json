@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "nama-barang": "Lenovo-G3s",
+            "merek": "Lenovo",
+            "jenis": "leptop",
+            "harga": 12000000
+        },
+        {
+            "nama-barang": "ROG-Zyhperus",
+            "merek": "Asus",
+            "jenis": "leptop",
+            "harga": 2000000
+        },
+        {
+            "nama-barang": "Poco-x3",
+            "merek": "Xiaomi",
+            "jenis": "Handphone",
+            "harga": 300000
+        },
+        {
+            "nama-barang": "Macbook-Air",
+            "merek": "Apple",
+            "jenis": "leptop",
+            "harga": 16000000
+        },
+        {
+            "nama-barang": "Omen",
+            "merek": "HP",
+            "jenis": "leptop",
+            "harga": 14500000
+        },
+        {
+            "nama-barang": "Tuff-Gaming",
+            "merek": "Asus",
+            "jenis": "leptop",
+            "harga": 11000000
+        },
+        {
+            "nama-barang": "iPhone-15",
+            "merek": "Apple",
+            "jenis": "Handphone",
+            "harga": 19500000
+        }
+    ]
+}
